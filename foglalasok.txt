@@ -1,0 +1,8 @@
+Kis Gábor,DF123,Budapest,8000.0,2024-12-12
+Nagy Árpád,DF123,Budapest,8000.0,2024-11-26
+Horváth Erika,IF789,London,30000.0,2025-01-12
+Benedek Ervin,IF789,London,30000.0,2024-11-15
+Nagy Ármin,DF456,Debrecen,6400.0,2024-12-23
+Kis Luca,DF456,Debrecen,6400.0,2025-02-03
+Nagy Zsolt,DF123,Budapest,8000.0,2025-03-05
+Pál Tibor,DF456,Debrecen,6400.0,2024-12-06
